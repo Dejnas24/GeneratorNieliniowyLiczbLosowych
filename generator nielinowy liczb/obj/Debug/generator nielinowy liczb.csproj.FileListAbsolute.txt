@@ -1,0 +1,7 @@
+C:\Users\andrz\Desktop\generator\generator nielinowy liczb\generator nielinowy liczb\bin\Debug\generator nielinowy liczb.exe.config
+C:\Users\andrz\Desktop\generator\generator nielinowy liczb\generator nielinowy liczb\bin\Debug\generator nielinowy liczb.exe
+C:\Users\andrz\Desktop\generator\generator nielinowy liczb\generator nielinowy liczb\bin\Debug\generator nielinowy liczb.pdb
+C:\Users\andrz\Desktop\generator\generator nielinowy liczb\generator nielinowy liczb\obj\Debug\generator nielinowy liczb.csprojAssemblyReference.cache
+C:\Users\andrz\Desktop\generator\generator nielinowy liczb\generator nielinowy liczb\obj\Debug\generator nielinowy liczb.csproj.CoreCompileInputs.cache
+C:\Users\andrz\Desktop\generator\generator nielinowy liczb\generator nielinowy liczb\obj\Debug\generator nielinowy liczb.exe
+C:\Users\andrz\Desktop\generator\generator nielinowy liczb\generator nielinowy liczb\obj\Debug\generator nielinowy liczb.pdb
